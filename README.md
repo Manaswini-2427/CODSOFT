@@ -1,9 +1,9 @@
 # CODSOFT
-##1.chatbot.py
+#1.chatbot.py
 A Rule-based chatbot using python
 
-##2.recommender.py
+#2.recommender.py
 Tic-Tac-Toe game using Minimax algorithm with Alpha-Beta pruning
 
-##3.tictactoe_ai.py
+#3.tictactoe_ai.py
 A simple recommendation engine that suggests movies (or books, products) to users based on what they already like
