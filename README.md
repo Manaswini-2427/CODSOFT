@@ -3,7 +3,7 @@
 A Rule-based chatbot using python
 
 #2.recommender.py
-Tic-Tac-Toe game using Minimax algorithm with Alpha-Beta pruning
+A simple recommendation engine that suggests movies (or books, products) to users based on what they already like
 
 #3.tictactoe_ai.py
-A simple recommendation engine that suggests movies (or books, products) to users based on what they already like
+Tic-Tac-Toe game using Minimax algorithm with Alpha-Beta pruning
